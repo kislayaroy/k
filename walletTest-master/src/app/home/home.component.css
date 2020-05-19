@@ -1,0 +1,15 @@
+.container-fluid{
+  height: 88%;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
